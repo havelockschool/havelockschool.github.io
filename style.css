@@ -6,7 +6,7 @@ body {
 h1 {
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
-	color: blue;
+	color: purple;
 }
 
 .robots {
@@ -21,7 +21,7 @@ h1 {
 .right_arm, 
 .left_leg, 
 .right_leg {
-	 background-color: purple;
+	 background-color: blue;
 }
 
 .head { 
